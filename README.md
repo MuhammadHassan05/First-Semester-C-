@@ -1,2 +1,4 @@
 # First-Semester-C-
-Author = Muhammad Hassan &lt;br>This is my first repository.
+Author = Muhammad Hassan
+<br>
+This is my first repository.
